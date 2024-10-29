@@ -12,3 +12,5 @@ PIP
 Pytorch
 NumPy
 colossal.ai
+
+I am able to install all the libraries but there are issues with versions and bug with the colossal.ai
