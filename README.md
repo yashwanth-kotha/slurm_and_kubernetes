@@ -3,14 +3,16 @@ This project is about  installing SLURM (High performance computing) on bare met
 
 I completed installing SLURM on Bare metal
 
-Ubuntu
-CUDA
-OpenMPI
-NCCL
-Python
-PIP
-Pytorch
+Ubuntu == 20.4
+CUDA == 12.1
+OpenMPI == Latest
+NCCL == Latest
+Python == 3.8
+PIP == Latest
+Pytorch == 2.4.0
 NumPy
-colossal.ai
+colossal.ai == git
 
 I am able to install all the libraries but there are issues with versions and bug with the colossal.ai
+
+
