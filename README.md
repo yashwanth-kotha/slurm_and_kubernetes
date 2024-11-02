@@ -11,7 +11,7 @@ Python == 3.8
 PIP == Latest
 Pytorch == 2.4.0
 NumPy
-colossal.ai == git
+colossal.ai == Download using git
 
 I am able to install all the libraries but there are issues with versions and bug with the colossal.ai
 
