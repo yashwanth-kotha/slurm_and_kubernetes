@@ -6,7 +6,7 @@ I completed installing SLURM on Bare metal
 Ubuntu == 20.4
 CUDA == 12.1
 OpenMPI == 4.17
-NCCL == 2.14
+NCCL == 2.18 latest version
 Python == 3.9
 PIP == Latest
 Pytorch == 2.4.0
