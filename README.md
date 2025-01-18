@@ -59,7 +59,6 @@ Command 'nvcc' not found, but can be installed with:
 
 apt install nvidia-cuda-toolkit
 
-
 Then use this script to download the CUDA
 apt clean 
 apt update 
