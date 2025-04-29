@@ -10,7 +10,7 @@ CUDA == 12.1
 OpenMPI == 4.17
 NCCL == 2.18 latest version
 Python == 3.9
-PIP == Latest
+PIP == Latest version
 Pytorch == 2.4.0
 NumPy
 colossal.ai == Download using git
