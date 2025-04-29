@@ -1,5 +1,5 @@
 # slurm_and_kubernetes
-This project is about  installing SLURM (High performance computing) on bare metal and Kubernetes to deploy Machine learning model
+This project is about  installing SLURM (High performance computing) on bare metal and Kubernetes for fine-tuning machine learning models
 
 Here are the steps I followed to install SLURM (High-Performance Computing) to run effiecient neural network training using Colossal.ai
 
